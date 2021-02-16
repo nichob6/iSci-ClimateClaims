@@ -24,5 +24,3 @@ Iglesias-Rodriguez D., Ries, J., 2010. Clarification of the Iglesias-Rodriguez e
 IPCC, 2020. About the IPCC. [online]. URL https://www.ipcc.ch/about/ (accessed 02/15/2021).
 
 Ries, J.B., Cohen, A.L., McCorkle, D.C., 2009. Marine calcifiers exhibit mixed responses to CO2-induced ocean acidification. *Geology.* 37(12), 1057-1152. 
-
-Various Contributors, 2018. John Everett [online]. RationalWiki. URL https://rationalwiki.org/w/index.php?title=John_Everett&action=info
